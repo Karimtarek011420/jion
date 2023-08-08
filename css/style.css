@@ -1,0 +1,19 @@
+body{
+ background-color: #24353f;
+}
+.form-control{
+    color: white !important;
+}
+.form-control:focus {
+    background-color: #24353f;
+  }
+.fromlist input:focus {
+    box-shadow: 0 0 0 0 transparent !important;
+  }
+.fromlist input {
+    background-color:transparent;
+   
+  }
+  .fromone .a {
+    text-decoration: none;
+  }
